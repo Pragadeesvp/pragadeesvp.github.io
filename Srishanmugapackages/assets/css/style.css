@@ -70,7 +70,6 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   background: rgba(42, 44, 57, 0.9);
-  position: relative;
 }
 #header.header-transparent {
   background: transparent;
@@ -92,8 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .logo img {
   padding: 0px;
-  margin-left: -50px;
-  margin-top: -50px;
+  margin: 0px;
   max-height: 40px;
 }
 

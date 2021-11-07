@@ -37,8 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 40px;
   border-radius: 50px;
   transition: all 0.4s;
-  
-}
+  }
 .back-to-top i {
   font-size: 28px;
   color: #fff;
@@ -66,9 +65,9 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #header {
   height: 70px;
-  transition: all 0.5s;
+  transition: all 0.4s;
   z-index: 997;
-  transition: all 0.5s;
+  transition: all 0.3s;
   background: rgba(42, 44, 57, 0.9);
 }
 #header.header-transparent {

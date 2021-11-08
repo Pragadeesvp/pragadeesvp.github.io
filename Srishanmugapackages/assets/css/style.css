@@ -79,10 +79,11 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo h1 {
   font-size: 20px;
   margin: 0;
-  padding: 0;
+  padding: 10;
   line-height: 1;
   font-weight: 700;
   letter-spacing: 1px;
+  shadow:10px;
 }
 #header .logo h1 a, #header .logo h1 a:hover {
   color: rgba(252, 249, 249, 0.562);

@@ -27,12 +27,15 @@ I like to:
 
 
 ### Find me around the web 🌎 :
-- Social Networking :
-[LinkedIn](https://www.linkedin.com/in/pragadeeswarans/)
-[Profile](https://www.pragadeesvp.github.io/profile.html/)
-- **Language Known**
--English 
--Tamil
+Social Networking :
+- [LinkedIn](https://www.linkedin.com/in/pragadeeswarans/)
+- [portfolio](https://www.pragadeesvp.github.io/profile.html/)
+
+
+
+Language Known :
+- English 
+- Tamil
 
 
 

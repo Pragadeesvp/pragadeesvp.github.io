@@ -19,7 +19,7 @@ I like to:
 - help the community around me by sharing my knowledge
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Siddartha's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragadeesvp&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Siddartha's github stats" />
 
 
 
@@ -29,8 +29,7 @@ I like to:
 ### Find me around the web 🌎 :
 Social Networking :
 - [LinkedIn](https://www.linkedin.com/in/pragadeeswarans/)
-- [portfolio](https://www.pragadeesvp.github.io/profile.html/)
-
+- [Portfolio](https://www.pragadeesvp.github.io/profile.html/)
 
 
 Language Known :

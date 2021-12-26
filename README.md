@@ -29,7 +29,7 @@ I like to:
 ### Find me around the web 🌎 :
 Social Networking :
 - [LinkedIn](https://www.linkedin.com/in/pragadeeswarans/)
-- [Portfolio](https://www.pragadeesvp.github.io/profile.html/)
+- [Portfolio](https://pragadeesvp.github.io/profile.html)
 
 
 Language Known :

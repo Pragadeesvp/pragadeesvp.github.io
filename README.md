@@ -1,4 +1,4 @@
-# This MY Profile 
+# This My Profile 
 
 
-[Click ME](https://pragadeesvp.github.io/profile.html) To MY website
+[Click Me](https://pragadeesvp.github.io/profile.html) To My website

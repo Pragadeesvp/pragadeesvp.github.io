@@ -588,9 +588,11 @@ section {
   width: 300px;
   z-index: 9999;
   background: #040b14;
+  text-align: center;
 }
 #footer .social-links {
-  font-size: 20px;}
+  font-size: 25px;
+  text-align: center;}
 #footer .copyright {
   text-align: center;
 }

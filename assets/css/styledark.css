@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #404347;
   overflow-y: auto;
 }
 #header .profile img {
@@ -257,7 +257,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #080707;
 }
 
 .section-title {
@@ -452,7 +452,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #fff;
+  background: #080707;
 }
 .contact .info i {
   font-size: 20px;

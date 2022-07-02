@@ -8,21 +8,8 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
-.dark-mode {
-  font-family: "Open Sans", sans-serif;
-  background-color :Black;
-  color: #fff;
   a {
   color: #475f66;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #2a2b2b;
-  text-decoration: none;
-}
-a {
-  color: #149ddd;
   text-decoration: none;
 }
 
@@ -34,7 +21,21 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
  }
-
+.dark-mode {
+  font-family: "Open Sans", sans-serif;
+  background-color :Black;
+  color: #fff;
+  
+  a:hover {
+  color: #2a2b2b;
+  text-decoration: none;
+}
+a {
+  color: #149ddd;
+  text-decoration: none;
+}
+}
+  
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/

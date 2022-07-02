@@ -17,8 +17,8 @@
 Dark Mode
 */
       function darkMode() {
-        var element = document.body;
-        element.classList.toggle("dark-mode");
+        var button = document.getElementById("dark-mode")
+        var bsButton = new bootstrap.Button(button)
       }
   /**
    * Easy event listener function

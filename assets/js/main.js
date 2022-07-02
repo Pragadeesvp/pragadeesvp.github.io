@@ -16,10 +16,7 @@
 /**
 Dark Mode
 */
-      function darkMode() {
-        var button = document.getElementById("dark-mode")
-        var bsButton = new bootstrap.Button(button)
-      }
+    
   /**
    * Easy event listener function
    */

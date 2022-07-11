@@ -15,10 +15,7 @@
       return document.querySelector(el)
     }
   }
-/**
-Dark Mode
-*/
-    
+
   /**
    * Easy event listener function
    */

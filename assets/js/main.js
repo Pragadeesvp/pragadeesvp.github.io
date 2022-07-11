@@ -2,6 +2,8 @@
 (function() {
   "use strict";
 
+
+
   /**
    * Easy selector helper function
    */
@@ -243,6 +245,16 @@
       clickable: true
     }
   });
+
+  /**
+ *  darkmode
+ */
+var darkmode = document.getElementById("darkmode");
+   darkmode.onclick=function(){
+       document.body.classList.toggle("dark-mode");
+       darkmode = (icon) => icon.classList.toggle('bx bx-sun');
+   }
+
 
   /**
    * Animation on scroll

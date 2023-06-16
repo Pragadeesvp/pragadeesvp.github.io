@@ -68,6 +68,9 @@
   --bs-highlight-bg: #fff3cd;
 }
 
+body{
+scroll-behavior: smooth;
+}
 
 
 /*--------------------------------------------------------------

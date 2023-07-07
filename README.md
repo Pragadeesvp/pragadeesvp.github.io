@@ -1,6 +1,5 @@
-![karuppusamy-banner](/public/static/images/twitter-card.png)
 
-# Karuppusamy's Blog
+
 
 I am Karuppusamy, a software engineer. I know JavaScript, Python, C++, C, Java, HTML, CSS, and some other programming languages. I also know android development, web development, and arduino programming.
 
